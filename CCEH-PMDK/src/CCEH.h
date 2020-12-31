@@ -8,7 +8,7 @@
 #include <cstdlib>
 #include <pthread.h>
 #include <libpmemobj.h>
-#include "src/util.h"
+#include "util.h"
 
 #define TOID_ARRAY(x) TOID(x)
 

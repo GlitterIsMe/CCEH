@@ -9,7 +9,7 @@
 #include <vector>
 #include <bitset>
 
-#include "src/CCEH.h"
+#include "CCEH.h"
 using namespace std;
 
 
